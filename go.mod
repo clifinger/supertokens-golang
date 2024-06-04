@@ -1,4 +1,4 @@
-module github.com/supertokens/supertokens-golang
+module github.com/clifinger/supertokens-golang
 
 go 1.18
 
